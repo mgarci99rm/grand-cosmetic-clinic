@@ -1,0 +1,15 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/*
+!.vscode/extensions.json
+
+# Node (por si en el futuro se añade tooling)
+node_modules/
+npm-debug.log*
+
+# Netlify / Vercel
+.netlify/
+.vercel/
