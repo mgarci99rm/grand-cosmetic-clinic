@@ -46,6 +46,19 @@ automática mientras editas.
   sustitúyelo por el correo real del dominio de pruebas.
 - El logo (`assets/logo.png`) es el logo real de la clínica, facilitado
   por el cliente.
+- Las 3 fotografías (hero, equipo, tratamientos) son imágenes de stock
+  libres de derechos (licencia Unsplash) cargadas por URL externa, no
+  incluidas en `assets/`. Si algún día se cae ese enlace o se quiere
+  independencia total de internet, hay que descargarlas y guardarlas
+  en `assets/` y actualizar las rutas en `css/styles.css` e
+  `index.html`.
+
+## Historial de versiones
+
+- **v1** — primer concepto, paleta rosa-porcelana/burdeos, sin fotos.
+- **v2** — paleta negro + dorado (a partir del logo real del cliente),
+  fotografía real en hero/equipo/tratamientos, franja de confianza con
+  estadísticas, más secciones alternando fondo negro/marfil.
 
 ## Pendiente / ideas para siguientes iteraciones
 
