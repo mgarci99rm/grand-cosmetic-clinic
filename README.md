@@ -59,6 +59,35 @@ automática mientras editas.
 - **v2** — paleta negro + dorado (a partir del logo real del cliente),
   fotografía real en hero/equipo/tratamientos, franja de confianza con
   estadísticas, más secciones alternando fondo negro/marfil.
+- **v3** — reestructuración completa siguiendo el flujo pedido por el
+  cliente: sección "Our Beauty Treatments" (explicación de cada
+  tratamiento antes del precio), "The Grand Menu" (precios), Welcome/
+  About Us + Meet the Team, credenciales, testimonios (parafraseados
+  de reseñas reales de Google/Yelp), House Rules, banda Book/WhatsApp,
+  formulario de preguntas, Get in Touch con mapa de Google embebido.
+  Tipografía cambiada a Bodoni Moda (titulares) + Jost (cuerpo). Email
+  de contacto actualizado al real (`info@grandcosmeticclinic.com`).
+
+## Pendiente antes de presentarlo como oficial
+
+- **Fotos del equipo**: no hay fotos reales del Dr. Dehkordi ni de
+  Tricia — de momento hay un círculo con iniciales en su lugar. Pedir
+  las fotos reales al cliente y sustituir en la sección "Meet the
+  Team".
+- **Fotos de la clínica**: igual, no hay fotos reales del local
+  (exterior/interior). El mapa de Google ya funciona con la dirección
+  real.
+- **Texto de "Welcome to Grand Cosmetic Clinic"**: el párrafo sobre
+  cómo empezó la clínica es un placeholder de marca inventado, NO son
+  datos reales — hay que confirmarlo con el cliente o pedirles su
+  propia versión.
+- **Formulario de preguntas y pop-up de email**: ambos están montados
+  visualmente pero no envían nada a ningún sitio todavía. Necesitan un
+  servicio de formularios (Formspree, Netlify Forms, etc.) conectado
+  antes de publicarse de verdad.
+- **WhatsApp**: los enlaces usan el teléfono real de la clínica
+  (+1 818 200 7769) asumiendo que ese número tiene WhatsApp activo —
+  confirmarlo con el cliente.
 
 ## Pendiente / ideas para siguientes iteraciones
 
