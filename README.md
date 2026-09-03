@@ -68,6 +68,15 @@ automática mientras editas.
   Tipografía cambiada a Bodoni Moda (titulares) + Jost (cuerpo). Email
   de contacto actualizado al real (`info@grandcosmeticclinic.com`).
 
+- **v4** — hero con layout partido (foto lateral en vez de fondo a
+  pantalla completa), texto corto nuevo ("Refining features. Creating
+  balance. A better you."), The Grand Menu rediseñado como carta de
+  restaurante de lujo (marco con borde, líneas de puntos entre nombre
+  y precio, tipografía centrada), logo con más presencia en la
+  sección Welcome. De paso se corrigió un problema de contraste en
+  los precios del menú (colores pensados para fondo claro que estaban
+  mal en fondo negro).
+
 ## Pendiente antes de presentarlo como oficial
 
 - **Fotos del equipo**: no hay fotos reales del Dr. Dehkordi ni de
